@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangjennifer
 - 👀 I’m interested in kpop, Tetris, and puzzle hunts
-- 🌱 I’m currently learning java, html and python
+- 🌱 I’m currently learning java, html, css and python
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me email wangjennifer028@gmail.com
 
